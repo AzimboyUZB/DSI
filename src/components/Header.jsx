@@ -8,7 +8,7 @@ function Header({setOpenModal}) {
     return (
         <div className="header">
             <div className="container">
-                <img className="header__logo" src="https://i.ibb.co/VJJgnHb/Group-1317.png" />
+                <img className="header__logo" src="https://i.ibb.co/r4dsZzm/Group-1317.png" width="100%"/>
                 <div className="header__nav">
                     <Link href="">
                         <h1 className="header__list">Services</h1>
